@@ -16,14 +16,14 @@ library(dplyr)
 
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("https://docs.google.com/spreadsheets/d/14JuwzEs-cucrHwqOVhRHaNHgLMrJvqe6p-c0K11jFNw/edit#gid=0") |> 
+read_sheet("https://docs.google.com/spreadsheets/d/1I6nACPumyIL02goD_seopUFFH649fL11QDmgK7Uil-8/edit#gid=0") |> 
   write_csv(here::here("data/tables/tbl-01-work-packages.csv"))
 
 ## tbl-02-wp-activities-research-questions.csv ------------------------------
 
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("https://docs.google.com/spreadsheets/d/10YJ3tkb2hPZ1ScoK9zINCN6C4rkLZZNZWLJQbcA1sN4/edit#gid=0") |> 
+read_sheet("https://docs.google.com/spreadsheets/d/1ccOAotI3kdSN4HogB0TkF305ZH-RJHF2mU7UIHV79Yk/edit#gid=0") |> 
   write_csv(here::here("data/tables/tbl-02-wp-activities-research-questions.csv"))
 
 
@@ -32,7 +32,7 @@ read_sheet("https://docs.google.com/spreadsheets/d/10YJ3tkb2hPZ1ScoK9zINCN6C4rkL
 ## copy/paste the final budget table into the DOCX template
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("https://docs.google.com/spreadsheets/d/1E47niM78SGHu8aoel4dgzoC3-_fvAuILkwOdNX_EYaY/edit#gid=0") |> 
+read_sheet("https://docs.google.com/spreadsheets/d/1lJim4WwOD84wJcB47re5ebK8X20c7TBmIshZIiEykgA/edit#gid=0") |> 
   write_csv(here::here("data/tables/tbl-03-eth-ord-budget-template.csv"))
 
 ## tbl-04-budget-justification -----------------------------------------------
@@ -40,7 +40,7 @@ read_sheet("https://docs.google.com/spreadsheets/d/1E47niM78SGHu8aoel4dgzoC3-_fv
 ## copy/paste the final budget table into the DOCX template
 ## Note: Update the Google Sheet ID with your copy of the table
 
-read_sheet("https://docs.google.com/spreadsheets/d/1Ezms4pvSQJIuAQ0dgaJ49wD08k4f35UgwDcEJifgExY/edit#gid=0") |> 
+read_sheet("https://docs.google.com/spreadsheets/d/1Lr2qHindOSUnPaVe-RjS90WwWVcfAcqcYXY3iG1Vmno/edit#gid=0") |> 
   write_csv(here::here("data/tables/tbl-04-budget-justification.csv"))
 
 

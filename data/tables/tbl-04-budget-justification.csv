@@ -1,20 +1,7 @@
-Cost Category,Cost Sub Category,Cost Item,Description,Cost,Source,Institution,Justification
-Direct costs,Personell,Other,Salary A,,In-kind,A,
-Direct costs,Personell,Other,Salary A,,ORD,A,
-Direct costs,Personell,Senior Staff,Salary B,,ORD,B,
-Direct costs,Personell,Postdocs,Salary C,,ORD,B,
-Direct costs,Other,Conferences and workshops,Expenses for participation in international conference,,In-kind,A,
-Subcontracting costs,NA,NA,External services,,ORD,C,
-NA,NA,NA,NA,,NA,NA,
-NA,NA,NA,NA,,Source,Institution,
-NA,NA,NA,NA,,ORD,A,
-NA,NA,NA,NA,,ORD,B,
-NA,NA,NA,NA,,ORD,C,
-NA,NA,NA,NA,,In-kind,A,
-NA,NA,NA,NA,,In-kind,B,
-NA,NA,NA,NA,,In-kind,C,
-NA,NA,NA,NA,,Total,NA,
-NA,NA,NA,NA,,NA,NA,
-NA,NA,NA,NA,,Source,NA,
-NA,NA,NA,NA,,ORD,NA,
-NA,NA,NA,NA,,In-kind,NA,
+Cost Category...1,Cost Category...2,Cost Item,Description,Cost,Percent,Source,Justification
+Direct costs,Personel,Other,Salary Lars Schöbitz (Data Steward support),4950,NA,In-kind,5% of salary for 9 months.
+Direct costs,Personal,Other,Salary Saloni Vijay (Project coordinator),4477.5,NA,In-kind,10% of salary for 9 months. Project management for whole project and lead for WP3
+Direct costs,Personel,Other,Salary Scientific Assisstant (Internship),14400,NA,ORD,80% of salary for 4 months. Package Development and lead for WP1 and WP2
+Direct costs,Travel,Travel,Expenses for hosting of an in-person workshop with partners,6240,NA,ORD,"Costs include: flight (1500), hotel (400) and per diem (200) for 2 days and 3 people"
+NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,TOTAL,30067.5,NA,NA,NA

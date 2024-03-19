@@ -1,13 +1,10 @@
-WP,Name,Project Activity,Research Question,Lead,Q1,Q2,Q3,Q4,Q5,Q6
-WP1,Work package name 1,Activity 1.1:,RQ 1.1:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP1,Work package name 1,Activity 1.2:,RQ 1.2:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP1,Work package name 1,Activity 1.3:,RQ 1.3:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP2,Work package name 2,Activity 2.1:,RQ 2.1:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP2,Work package name 2,Activity 2.2:,RQ 2.2:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP2,Work package name 2,Activity 2.3:,RQ 2.3:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP3,Work package name 3,Activity 3.1:,RQ 3.1:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP3,Work package name 3,Activity 3.2:,RQ 3.2:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP3,Work package name 3,Activity 3.3:,RQ 3.3:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP4,Work package name 4,Activity 4.1:,RQ 4.1:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP4,Work package name 4,Activity 4.2:,RQ 4.2:,Lead person initials,NA,NA,NA,NA,NA,NA
-WP4,Work package name 4,Activity 4.3:,RQ 4.3:,Lead person initials,NA,NA,NA,NA,NA,NA
+WP,Name,Project Activity,Research Question,Lead,Q1,Q2,Q3,Q4,Q5,Q6,...12,Link,https://docs.google.com/spreadsheets/d/1I6nACPumyIL02goD_seopUFFH649fL11QDmgK7Uil-8/edit#gid=0
+WP1,Reasons for limited openly available Black Carbon data,Activity 1.1: Literature research on black carbon data availability,RQ 1.1: Why is black carbon data not published openly?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP1,Reasons for limited openly available Black Carbon data,Activity 1.2: Interview with experts in OpenAQ,RQ 1.2: Why there is limited Black Carbon data on OpenAQ platform?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP1,Reasons for limited openly available Black Carbon data,Activity 1.3: Interviews with government organizations responsible for data collection,RQ 1.3: What are the barriers that the organizations face in uploading their data on OpenAQ?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP2,Upload Black Carbon data on OpenAQ platform,Activity 2.1: Upload batch data from my PhD project,RQ 2.1: How can we upload batch data on OpenAQ?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP2,Upload Black Carbon data on OpenAQ platform,"Activity 2.2: Upload data from Switzerland, China, etc",RQ 2.2: What are the black carbon concentrations in Switzerland and China?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP2,Upload Black Carbon data on OpenAQ platform,Activity 2.3: Reach out to other countries to upload their data,RQ 2.3: What are the black carbon concentrations in other areas of the world?,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP3,Make data upload process sustainable,Activity 3.1: Organise workshop together with OpenAQ on uploading data on OpenAQ,RQ 3.1:,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP3,Make data upload process sustainable,Activity 3.2: Organise a session in a conference to upload data on OpenAQ,RQ 3.2:,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
+WP3,Make data upload process sustainable,Activity 3.3:,RQ 3.3:,Lead person initials,NA,NA,NA,NA,NA,NA,NA,NA,NA
