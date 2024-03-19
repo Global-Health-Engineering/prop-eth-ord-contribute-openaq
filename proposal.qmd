@@ -71,27 +71,24 @@ wp4_rqs <- filter(tbl02, WP == "WP4") |>
 
 -   Measure 1: Calls for Field-Specific Actions
 -   https://ethrat.ch/en/measure-1-calls-for-field-specific-actions/
--   Explore projects will allow early phase exploration, testing and prototyping of what an ORD practice could be like. They will enable starting to engage with a community without necessarily building up something definitive. The aim is to help our researchers to explore if ORD practices can be developed and how.
+-   Contribute projects will help researchers to contribute to existing open communities built around ORD. They will validate their integration with existing infrastructures (including international ones) and focus on their potential to advance the scientific impact of the field as well as their technical quality.
 
 ## Aims
 
-Funding for "Explore projects" aims at:
+Funding for “contribute projects” aims at:
 
-1.  Specifying ORD standards.
-2.  Prototyping ORD tools.
-3.  Building Communities to engage in ORD practices.
-4.  Any other means that help explore and develop ORD practices.
-
-It is important that Explore projects are not self-centred but emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders.
+- Contributing a piece of software, data, hardware, etc., which simplifies an established ORD practice, develops its research potential, or otherwise improves it.
+- Curating or otherwise improving available ORD, for example, by updating existing data to adapt it to the evolution of ORD practices or by linking different ORD datasets or by collecting and curating existing data before uploading it to an ORD platform.
+- Providing community services, such as the organization of a workshop or training, or coordination for the development of an ORD standard.
 
 ## Application guidelines (ETH Domain)
 
--   https://ethrat.ch/wp-content/uploads/2023/10/Application-Guidelines_TrackA_Explore_2nd_call_FINAL.pdf
--   It is the declared goal to fund proposals that make tools (e.g., software; hardware; protocols; standards; benchmarks; documentation and training materials; networking and education events, activities and resources) available which enable, facilitate and foster sharing research data based on ORD principles. Preference will be given to projects which engage and are connected to a community. Therefore, applicants are strongly invited to demonstrate why their project represents an ORD practice that encourages good research in their field.
+-   https://ethrat.ch/wp-content/uploads/2024/02/Application-guidelines_TrackC-Contribute-projects-7th-call-FINAL.pdf
+-   It is the declared goal to fund proposals that make available tools (software; hardware; protocols; standards; benchmarks; documentation and training materials; networking and education events; activities; and resources), which enable, facilitate and foster sharing research data based on ORD principles. Preference will be given to projects which engage and are connected to a community. Therefore, applicants are strongly invited to demonstrate why their project represents an ORD practice that encourages good research in their field. 
 
 ## Application guidelines (ETHZ & EPFL)
 
--   https://ethrat.ch/wp-content/uploads/2023/10/Application-guidelines-Explore-EPFL-ETHZ-applicants-2nd-call-LATEST.pdf
+-   https://ethrat.ch/wp-content/uploads/2022/06/2022-05-00-ETH-ORD-EPFLETHZ-information-to-applicants-Contribute.pdf
 
 For applicants at ETHZ
 
@@ -101,9 +98,13 @@ For applicants at EPFL
 
 -   In this Explore call, applicants at EPFL can be funded for 100% of the total budget.
 
+## A funded example proposal
+
+The following proposal was funded in the 2nd call: https://github.com/openwashdata-dev/proposal-eth-ord-scheme-contribute/blob/main/proposal-eth-ord-scheme-contribute.md
+
 # Project Proposal
 
-Your project proposal must not exceed 12 pages, excluding the bibliography (A4, Arial 11-point font, 1.5 line-spacing, 2-centimeter margins). Please address all points below.
+Your project proposal must not exceed 6 pages, excluding the bibliography (A4, Arial 11-point font, 1.5 line-spacing, 2-centimeter margins). Please address all points below.
 
 # Abstract
 
@@ -132,12 +133,9 @@ Please include a project title (max. 12 words); this title will be used for all 
 
 Please explain which aim(s) of the ORD "contribute projects" you seek to address:
 
-1.  Specifying ORD standards.
-2.  Prototyping ORD tools.
-3.  Building Communities to engage in ORD practices.
-4.  Any other means that help explore and develop ORD practices.
-
-It is important that Explore projects are not self-centred but emphasize exchanges in the spirit of Open Science with other researchers, technical experts, and stakeholders.
+1. Contributing a piece of software, data, hardware, etc., which simplifies an established ORD practice, develops its research potential, or otherwise improves it. 
+2. Curating or otherwise improving available ORD. For example, by updating existing data to adapt it to the evolution of ORD practices. Or by linking different ORD datasets. Or by collecting and curating existing data before uploading it to an ORD platform.
+3. Providing community services, such as the organization of a workshop or training, or coordination for the development of an ORD standard.
 
 ## Section 1.1
 

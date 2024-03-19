@@ -1,6 +1,6 @@
-# Proposal template: ETH ORD Explore projects
+# Proposal template: ETH ORD Contribute projects
 
-This repository contains a proposal template for the ETH ORD Explore projects. The template is written as a Quarto document and uses the outline from the original template for [ETH ORD Explore projects](https://docs.google.com/document/d/1K6Pj-eBIVD6njCbfOHulDFy7vfft1w37/edit). 
+This repository contains a Quarto document proposal template for the ETH ORD Contribute projects. The template is written as a Quarto document and uses the outline from the original template for [ETH ORD Contribute projects](https://docs.google.com/document/d/1xkj1O9zIrNfnqu7C-DKj7PffT6ju7lA_/edit). 
 
 - `proposal.qmd`
 
@@ -12,7 +12,7 @@ The folder contains CSV files, which are read from Google Sheets using the `read
 
 The Google sheets provide a collaborative way to edit the main content of the proposal. By running the script, the CSV files are updated with the latest version of the Google Sheets. The CSV files are then read by the Quarto document to generate parts of the proposal.
 
-Google Drive folder with Google Sheets in "tables": https://drive.google.com/drive/u/1/folders/1O7xvGeiBg9xQ5z4zaoOKT1jCkn1WYIG1
+Google Drive folder with Google Sheets in "tables": https://drive.google.com/drive/u/0/folders/1OwlHKa3M4Oc88GD2_0ePR1E8avxAwHW7
 
 Create your own copy of the folder and then edit the Google Sheets. You will need to update the IDs of the sheets in the `read_gsheets_tables.R` script.
 
